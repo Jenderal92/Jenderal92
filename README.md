@@ -16,4 +16,4 @@
 <h1>Disclaimer For Tools</h1>
 <p>Our products are designed to be used correctly and with care for the purpose for which they are intended.
 No liability is accepted by the Tool Connection for incorrect use of any of our products,and the Tool Connection cannot be held responsible for any damage to personnel,property or equipment when using the tools.
-The Author Will Not Be Responsible For Any Kind Of Misuse Or Damage To Any Personal Or Material Data.</p>
+The Author Will Not Be Responsible For Any Kind Of Misuse Or Damage To Any Personal Or Material Data other.</p>
