@@ -1,4 +1,4 @@
-<h1>HI ! PRO WELCOME TO MY GITHUB PAGE</h1>
+<h1>Hi ! Pro Welcome To My Github Page</h1>
 <b> Donation :</b><br>
 <b>BTC : 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1 </b>
 <br>
