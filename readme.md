@@ -9,7 +9,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jenderal92&show_icons=true&theme=locale)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenderal92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenderal92&layout=compact)]()
 
 <h1>Please See This!!!</h1>
 <p>You can recode all tools on this github ,But I beg you not to delete the author's name.</p>
