@@ -3,8 +3,8 @@
 <p align="left">
 Donation :
 <p>
-BTC fa <i style="font-size:24px" class="fa">$</i>: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1 
-Perfect Money <i style="font-size:24px" class="fa">$</i>: U22270614
+BTC <i style="font-size:24px">$</i>: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1 
+Perfect Money <i style="font-size:24px">$</i>: U22270614
 </p>
 </p>
 <!-- - -->
