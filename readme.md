@@ -3,7 +3,9 @@
 <p align="left">
 Donation :
 <p>
-BTC <i style="font-size:24px">$</i>: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1 
+Bitcoin <i style="font-size:24px">$</i>: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1 
+</p>
+<p>
 Perfect Money <i style="font-size:24px">$</i>: U22270614
 </p>
 </p>
