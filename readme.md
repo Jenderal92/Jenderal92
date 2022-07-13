@@ -3,7 +3,7 @@
 <p align="left">
 Donation :
 <p>
-BTC fa <i style="font-size:24px" class="fa">&#xf15a;</i> : 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1 
+BTC <i class="fa-brands fa-btc"></i> : 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1 
 Perfect Money : U22270614
 </p>
 </p>
