@@ -1,7 +1,7 @@
 <h1>Hi ! Pro Welcome To My Github Page</h1>
-<!-- Donation -->
+<!-- To Buy Coffee -->
 <p align="left">
-Donation :
+Buy Coffee :
 <p>
 Bitcoin <i style="font-size:24px">$</i>: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1 
 </p>
