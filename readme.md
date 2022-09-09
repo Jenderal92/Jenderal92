@@ -12,8 +12,13 @@ Perfect Money <i style="font-size:24px">$</i>: U22270614
 <p>
 
 Saweria <i style="font-size:24px">$</i>: https://saweria.co/Shin403
+</p>
 
 </p>
+<p>
+Trakteer <i style="font-size:24px">$</i>: https://trakteer.id/shin403
+</p>
+
 
 </p>
 <!-- - -->
