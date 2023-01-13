@@ -32,7 +32,7 @@ Trakteer <i style="font-size:24px">$</i>: https://trakteer.id/shin403
 <br></br>
 <!-- status codes -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Jenderal92&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Jenderal93&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=Jenderal92&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Jenderal92&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
   </p>
 </a>
 <!-- Please See This !!!-->
