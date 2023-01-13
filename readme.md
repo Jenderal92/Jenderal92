@@ -2,6 +2,7 @@
 <!-- To Buy Coffee -->
 <p align="left">
 Buy Coffee :
+
 <p>
 Bitcoin <i style="font-size:24px">$</i>: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1 
 </p>
