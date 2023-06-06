@@ -53,4 +53,4 @@ Hopefully the tools that I share here are useful for you to learn, thank you :'D
 <br><h1>Disclaimer For Tools</h1>
 <p align="left">Our products are designed to be used correctly and with care for the purpose for which they are intended.
 No liability is accepted by the Jenderal92 for incorrect use of any of our products,and the Jenderal92 cannot be held responsible for any damage to personnel,property or equipment when using the tools.
-The Author Will Not Be Responsible For Any Kind Of Misuse Or Damage To Any Personal Or Material Data. </p>
+The Author Will Not Be Responsible For Any Kind Of Misuse Or Damage To Any Personal Or Material Data.All tools here are for educational purposes only, admin is not responsible for the damage you do !!!  </p>
