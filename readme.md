@@ -38,8 +38,10 @@ Trakteer <i style="font-size:24px">$</i>: https://trakteer.id/shin403
 <!-- Please See This !!!-->
 <h1>Please See This !!!</h1>
 <p align="center">
-You can recode all tools on this github ,But I beg you not to delete the author's name.
-Get used to mutual respect for someone's work !!!.
+All the tools on my github are all available for free, not for sale.
+The tools on my github are also open source where you can create or learn, but I hope you don't just change the author name, 
+because that's not cool at all! 
+Hopefully the tools that I share here are useful for you to learn, thank you :'D
 </p>
 <!-- Connect With Me-->
 <h1>Connect With Me</h1>
