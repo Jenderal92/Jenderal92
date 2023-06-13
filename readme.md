@@ -1,9 +1,8 @@
 <h1>Hi ! Pro Welcome To My Github Page</h1>
 <!-- To Buy Coffee -->
-Buy Coffee :
+<b>Buy Coffee :</b>
 
-<li>
-Bitcoin <i style="font-size:24px">$</i>: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1 
+<li>Bitcoin <i style="font-size:24px">$</i>: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1 
 </li>
 <li>Perfect Money <i style="font-size:24px">$</i>: U22270614
 </li>
@@ -11,7 +10,6 @@ Bitcoin <i style="font-size:24px">$</i>: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1
 </li>
 <li>Trakteer <i style="font-size:24px">$</i>: https://trakteer.id/shin403
 </li>
-
 
 </p>
 <!-- - -->
