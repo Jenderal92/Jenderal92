@@ -27,11 +27,9 @@
 </a>
 <!-- Please See This !!!-->
 <h1>Please See This !!!</h1>
-<p align="center">
-All the tools on my github are all available for free, not for sale.
-The tools on my github are also open source where you can create or learn, but I hope you don't just change the author name, 
-because that's not cool at all! 
-Hopefully the tools that I share here are useful for you to learn, thank you :'D
+<p align="center">All the tools on my github are all available for free, not for sale.</p>
+<p align="center">The tools on my github are also open source where you can create or learn, but I hope you don't just change the author name, because that's not cool at all!  </p>
+<p align="center">Hopefully the tools that I share here are useful for you to learn, thank you :'D</p>
 </p>
 <!-- Connect With Me-->
 <h1>Connect With Me</h1>
@@ -41,6 +39,6 @@ Hopefully the tools that I share here are useful for you to learn, thank you :'D
 </p>
 <!-- Disclaimer For Tools-->
 <br><h1>Disclaimer For Tools</h1>
-<p align="left">Our products are designed to be used correctly and with care for the purpose for which they are intended.
-No liability is accepted by the Jenderal92 for incorrect use of any of our products,and the Jenderal92 cannot be held responsible for any damage to personnel,property or equipment when using the tools.
-The Author Will Not Be Responsible For Any Kind Of Misuse Or Damage To Any Personal Or Material Data.All tools here are for educational purposes only, admin is not responsible for the damage you do !!!  </p>
+<p align="left">Our products are designed to be used correctly and with care for the purpose for which they are intended.</p>
+<p align="left">No liability is accepted by the Jenderal92 for incorrect use of any of our products,and the Jenderal92 cannot be held responsible for any damage to personnel,property or equipment when using the tools.</p>
+<p align="left">The Author Will Not Be Responsible For Any Kind Of Misuse Or Damage To Any Personal Or Material Data.All tools here are for educational purposes only, admin is not responsible for the damage you do !!!  </p>
