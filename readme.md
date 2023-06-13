@@ -1,24 +1,16 @@
 <h1>Hi ! Pro Welcome To My Github Page</h1>
 <!-- To Buy Coffee -->
-<p align="left">
 Buy Coffee :
 
-<p>
+<li>
 Bitcoin <i style="font-size:24px">$</i>: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1 
-</p>
-<p>
-Perfect Money <i style="font-size:24px">$</i>: U22270614
-</p>
-</p>
-<p>
-
-Saweria <i style="font-size:24px">$</i>: https://saweria.co/Shin403
-</p>
-
-</p>
-<p>
-Trakteer <i style="font-size:24px">$</i>: https://trakteer.id/shin403
-</p>
+</li>
+<li>Perfect Money <i style="font-size:24px">$</i>: U22270614
+</li>
+<li>Saweria <i style="font-size:24px">$</i>: https://saweria.co/Shin403
+</li>
+<li>Trakteer <i style="font-size:24px">$</i>: https://trakteer.id/shin403
+</li>
 
 
 </p>
