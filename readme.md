@@ -27,9 +27,9 @@
 </a>
 <!-- Please See This !!!-->
 <h1>Please See This !!!</h1>
-<p align="center">All the tools on my github are all available for free, not for sale.</p>
-<p align="center">The tools on my github are also open source where you can create or learn, but I hope you don't just change the author name, because that's not cool at all!  </p>
-<p align="center">Hopefully the tools that I share here are useful for you to learn, thank you :'D</p>
+<p align="left">All the tools on my github are all available for free, not for sale.</p>
+<p align="left">The tools on my github are also open source where you can create or learn, but I hope you don't just change the author name, because that's not cool at all!  </p>
+<p align="left">Hopefully the tools that I share here are useful for you to learn, thank you :'D</p>
 </p>
 <!-- Connect With Me-->
 <h1>Connect With Me</h1>
