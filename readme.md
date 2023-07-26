@@ -19,7 +19,7 @@
   <br>
   <!-- status codes -->
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenderal92&layout=compact" alt="my github stats" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenderal92&layout=compact" alt="my github stats" width="400"/>
 </p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Jenderal92&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
