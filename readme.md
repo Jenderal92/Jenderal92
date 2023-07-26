@@ -19,7 +19,10 @@
   <br>
   <!-- status codes -->
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenderal92&layout=compact" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Jenderal92&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenderal92&layout=compact" alt="my github stats" width="420"/>
+</p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Jenderal92&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
   </p>
 <!-- Important Information!! -->
 <h2>Important Information!!</h2>
@@ -44,7 +47,7 @@
 <li><a href="mailto:shindaytoday@gmail.com" rel="nofollow"><img align="left" alt="Gmail" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;"></a></li>
 <li><a href="https://m.youtube.com/channel/UCKf6FCKYuFUeG5D_SiAsQiQ/" rel="nofollow"><img align="left" alt="Youtube Channel" src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;"></a></li>
 <li><a href="https://www.blog-gan.org/" rel="nofollow"><img align="left" alt="Blogger" src="https://camo.githubusercontent.com/5eac8cae27148e0506aec25ff48529ad88e52c263140b6e69cec5f99ee0d1c50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c6f676765722d4646353732323f7374796c653d666f722d7468652d6261646765266c6f676f3d626c6f67676572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" style="max-width: 100%;"></a></li>
-
+</ul>
   </p>
 
   <br><br><br><br>
