@@ -61,3 +61,5 @@
 <p>
   It is important to note that all the tools shared here are for educational purposes only. The author does not endorse any illegal or unethical activities performed with these tools. Users are advised to comply with all applicable laws and regulations while using the provided tools.
 </p>
+
+![info](https://github.com/Jenderal92/Jenderal92/assets/59664965/b91ae44f-524b-4f70-90ed-c501407562f9)
