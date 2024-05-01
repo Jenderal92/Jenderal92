@@ -2,18 +2,19 @@
   <tr>
     <td align="center">
       <h1>Hi! Pro Welcome To My Github Page</h1>
-      <p>Selamat datang di halaman GitHub saya! Saya senang Anda berada di sini.
-      Di sini, Anda akan menemukan berbagai proyek yang saya kerjakan, mulai dari kode sumber terbuka hingga tutorial dan catatan pembelajaran.
-      Saya berharap konten yang saya bagikan dapat bermanfaat bagi Anda.
-      </p>
+      <p>Welcome to my GitHub page! I'm glad you're here.
+Here, you'll find various projects I've worked on, ranging from open-source code to tutorials and learning notes.
+I hope the content I share will be beneficial to you.</p>
       <!-- - -->
     <p align="left">
     <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
     <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
     <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
     <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  </p>
-      <br>
+    </p>
+   <br>
+   <br>
+   <br>
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenderal92&layout=compact" alt="my github stats" height="165">
   </p>
@@ -78,5 +79,4 @@
       <p><b>And for users utilizing my tools, I hope you use them wisely!</p></b></p>
     </td>
   </tr>
-
 
