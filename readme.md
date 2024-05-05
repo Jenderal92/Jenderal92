@@ -23,7 +23,7 @@ I hope the content I share will be beneficial to you.</p>
   </p>
     </td>
     <td align="center">
-      <h2>Buy Coffee :</h2>
+      <h2><i class="fad fa-donate"></i> Buy Coffee :</h2>
       <ul>
           <li>Bitcoin <i style="font-size:24px">$</i>: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1</li>
           <li>Perfect Money <i style="font-size:24px">$</i>: U22270614</li>
