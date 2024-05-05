@@ -1,7 +1,7 @@
 
   <tr>
     <td align="center">
-      <h1>Hi! Pro Welcome To My Github Page</h1>
+      <h1>🌐 Hi! Pro Welcome To My Github Page</h1>
       <p>Welcome to my GitHub page! I'm glad you're here.
 Here, you'll find various projects I've worked on, ranging from open-source code to tutorials and learning notes.
 I hope the content I share will be beneficial to you.</p>
@@ -23,7 +23,7 @@ I hope the content I share will be beneficial to you.</p>
   </p>
     </td>
     <td align="center">
-      <h2>&#Xf4b9;</i> Buy Coffee :</h2>
+      <h2>💲 </i> Buy Coffee :</h2>
       <ul>
           <li>Bitcoin <i style="font-size:24px">$</i>: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1</li>
           <li>Perfect Money <i style="font-size:24px">$</i>: U22270614</li>
@@ -33,7 +33,7 @@ I hope the content I share will be beneficial to you.</p>
       </ul>
     </td>
     <td align="center">
-      <h2>Important Information!!</h2>
+      <h2>⛔ Important Information!!</h2>
       <p>
       All the tools on my GitHub are provided free of charge and are not for sale.
       </p>
@@ -47,7 +47,7 @@ I hope the content I share will be beneficial to you.</p>
   </tr>
   <tr>
     <td align="center">
-      <h2>Disclaimer For Tools</h2>
+      <h2>☣️ Disclaimer For Tools</h2>
       <p>
       The tools provided on this GitHub page are intended to be used responsibly and for their designated purposes.
       </p>
@@ -59,7 +59,7 @@ I hope the content I share will be beneficial to you.</p>
       </p>
     </td>
     <td align="center">
-      <h2>Connect With Me</h2>
+      <h2>📞 Connect With Me</h2>
       <p align="center">If you need help with our tools, you can contact us via the contacts provided below.</p>
       <a href="https://t.me/Shin_code" rel="nofollow">
         <img src="https://camo.githubusercontent.com/afaa74bcd8ebafeffb8c818bfa55e4b4923498b32ccbb1189fcc170fd43b490c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
@@ -81,7 +81,7 @@ I hope the content I share will be beneficial to you.</p>
       </a>
       </td>
     <td align="center">
-      <h2>Admin Information</h2>
+      <h2>❗❗❗ Admin Information</h2>
       <p>Apologies to the website administrators if any tools or files from me are found on your website!</p>
       <p>I'm simply sharing code, so please refrain from contacting me regarding those tools that might disrupt your website.</p>
       <p>I haven't engaged in any hacking activities; I'm solely sharing code to enhance knowledge. Therefore, if any of my tools are on your website, it's not my responsibility. </p>
