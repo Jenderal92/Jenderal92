@@ -5,22 +5,6 @@
       <p>Welcome to my GitHub page! I'm glad you're here.
 Here, you'll find various projects I've worked on, ranging from open-source code to tutorials and learning notes.
 I hope the content I share will be beneficial to you.</p>
-      <!-- - -->
-    <p align="left">
-    <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-    <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-    <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-    <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-    </p>
-   <br>
-   <br>
-   <br>
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenderal92&layout=compact" alt="my github stats" height="165">
-  </p>
-  <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jenderal92&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
-  </p>
     </td>
     <td align="center">
       <h2>💲 </i> Buy Coffee :</h2>
