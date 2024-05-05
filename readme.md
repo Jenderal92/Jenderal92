@@ -14,6 +14,7 @@ I hope the content I share will be beneficial to you.</p>
           <li>Saweria <i style="font-size:24px">$</i>: <a href="https://saweria.co/Shin403" target="_blank">https://saweria.co/Shin403</a></li>
           <li>Trakteer <i style="font-size:24px">$</i>: <a href="https://trakteer.id/shin403" target="_blank">https://trakteer.id/shin403</a></li>
           <li>Buymeacoffee <i style="font-size:24px">$</i>: <a href="https://www.buymeacoffee.com/shin.code" target="_blank">https://www.buymeacoffee.com/shin.code</a></li>
+          <li>Ko-Fi <i style="font-size:24px">$</i>: <a href="https://ko-fi.com/shincode403" target="_blank">https://ko-fi.com/shincode403</a></li>
       </ul>
     </td>
     <td align="center">
