@@ -59,7 +59,8 @@ I hope the content I share will be beneficial to you.</p>
          <img src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
       </a>
       <a href="https://m.youtube.com/channel/UCKf6FCKYuFUeG5D_SiAsQiQ/" rel="nofollow">
-         ![Codecov Badge](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
+         [![Codecov Badge](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)](https://img.shields.io)
+        
       </a>
       <a href="https://www.blog-gan.org/" rel="nofollow">
         <img src="https://camo.githubusercontent.com/2904e8f460de75bc100a7e5805a0395473add05567f1b523b2e8906fd6653d52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c6f676765722d4646353732323f7374796c653d666f722d7468652d6261646765266c6f676f3d626c6f67676572266c6f676f436f6c6f723d7768697465" alt="Blogger" data-canonical-src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" style="max-width: 100%;">
