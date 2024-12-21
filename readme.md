@@ -5,18 +5,18 @@
     Here, you'll find various projects I've worked on, ranging from open-source code to tutorials and learning notes.
     I hope the content I share will be beneficial to you.</p>
   </td>
-  <td align="center">
-    <h2>💲 </i> Buy Coffee :</h2>
-    <details>
-      <summary>Click to Show Payment Methods</summary>
-      <ul>
-        <li>Bitcoin <i style="font-size:24px">$</i>: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</li>
-        <li>Saweria <i style="font-size:24px">$</i>: <a href="https://saweria.co/Shin403" target="_blank">https://saweria.co/Shin403</a></li>
-        <li>Trakteer <i style="font-size:24px">$</i>: <a href="https://trakteer.id/shin403" target="_blank">https://trakteer.id/shin403</a></li>
-        <li>Buymeacoffee <i style="font-size:24px">$</i>: <a href="https://www.buymeacoffee.com/shin.code" target="_blank">https://www.buymeacoffee.com/shin.code</a></li>
-        <li>Ko-Fi <i style="font-size:24px">$</i>: <a href="https://ko-fi.com/shincode403" target="_blank">https://ko-fi.com/shincode403</a></li>
-      </ul>
-    </details>
+  <h2>☕ Buy Me a Coffee:</h2>
+<details>
+  <summary>Click to Show Payment Methods</summary>
+  <ul>
+    <li>☕ <strong>Bitcoin:</strong> 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</li>
+    <li>☕ <strong>Saweria:</strong> <a href="https://saweria.co/Shin403" target="_blank">https://saweria.co/Shin403</a></li>
+    <li>☕ <strong>Trakteer:</strong> <a href="https://trakteer.id/shin403" target="_blank">https://trakteer.id/shin403</a></li>
+    <li>☕ <strong>BuyMeACoffee:</strong> <a href="https://www.buymeacoffee.com/shin.code" target="_blank">https://www.buymeacoffee.com/shin.code</a></li>
+    <li>☕ <strong>Ko-Fi:</strong> <a href="https://ko-fi.com/shincode403" target="_blank">https://ko-fi.com/shincode403</a></li>
+  </ul>
+</details>
+
   </td>
   <td align="center">
     <h2>⛔ Important Information!!</h2>
