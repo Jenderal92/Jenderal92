@@ -1,4 +1,3 @@
-
 <tr>
   <td align="center">
     <h1>🌐 Hi! Pro Welcome To My Github Page</h1>
@@ -8,14 +7,16 @@
   </td>
   <td align="center">
     <h2>💲 </i> Buy Coffee :</h2>
-    <button onclick="toggleVisibility()">Show Payment Methods</button>
-    <ul id="paymentMethods" style="display: none;">
-      <li>Bitcoin <i style="font-size:24px">$</i>: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</li>
-      <li>Saweria <i style="font-size:24px">$</i>: <a href="https://saweria.co/Shin403" target="_blank">https://saweria.co/Shin403</a></li>
-      <li>Trakteer <i style="font-size:24px">$</i>: <a href="https://trakteer.id/shin403" target="_blank">https://trakteer.id/shin403</a></li>
-      <li>Buymeacoffee <i style="font-size:24px">$</i>: <a href="https://www.buymeacoffee.com/shin.code" target="_blank">https://www.buymeacoffee.com/shin.code</a></li>
-      <li>Ko-Fi <i style="font-size:24px">$</i>: <a href="https://ko-fi.com/shincode403" target="_blank">https://ko-fi.com/shincode403</a></li>
-    </ul>
+    <details>
+      <summary>Click to Show Payment Methods</summary>
+      <ul>
+        <li>Bitcoin <i style="font-size:24px">$</i>: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</li>
+        <li>Saweria <i style="font-size:24px">$</i>: <a href="https://saweria.co/Shin403" target="_blank">https://saweria.co/Shin403</a></li>
+        <li>Trakteer <i style="font-size:24px">$</i>: <a href="https://trakteer.id/shin403" target="_blank">https://trakteer.id/shin403</a></li>
+        <li>Buymeacoffee <i style="font-size:24px">$</i>: <a href="https://www.buymeacoffee.com/shin.code" target="_blank">https://www.buymeacoffee.com/shin.code</a></li>
+        <li>Ko-Fi <i style="font-size:24px">$</i>: <a href="https://ko-fi.com/shincode403" target="_blank">https://ko-fi.com/shincode403</a></li>
+      </ul>
+    </details>
   </td>
   <td align="center">
     <h2>⛔ Important Information!!</h2>
@@ -25,16 +26,6 @@
   </td>
 </tr>
 
-<script>
-  function toggleVisibility() {
-    var paymentList = document.getElementById('paymentMethods');
-    if (paymentList.style.display === "none") {
-      paymentList.style.display = "block";
-    } else {
-      paymentList.style.display = "none";
-    }
-  }
-</script>
   <tr>
     <td align="center">
       <h2>☣️ Disclaimer For Tools</h2>
