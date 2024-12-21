@@ -1,34 +1,40 @@
 
-  <tr>
-    <td align="center">
-      <h1>🌐 Hi! Pro Welcome To My Github Page</h1>
-      <p>Welcome to my GitHub page! I'm glad you're here.
-Here, you'll find various projects I've worked on, ranging from open-source code to tutorials and learning notes.
-I hope the content I share will be beneficial to you.</p>
-    </td>
-    <td align="center">
-      <h2>💲 </i> Buy Coffee :</h2>
-      <ul>
-          <li>Bitcoin <i style="font-size:24px">$</i>: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</li>
-          <li>Saweria <i style="font-size:24px">$</i>: <a href="https://saweria.co/Shin403" target="_blank">https://saweria.co/Shin403</a></li>
-          <li>Trakteer <i style="font-size:24px">$</i>: <a href="https://trakteer.id/shin403" target="_blank">https://trakteer.id/shin403</a></li>
-          <li>Buymeacoffee <i style="font-size:24px">$</i>: <a href="https://www.buymeacoffee.com/shin.code" target="_blank">https://www.buymeacoffee.com/shin.code</a></li>
-          <li>Ko-Fi <i style="font-size:24px">$</i>: <a href="https://ko-fi.com/shincode403" target="_blank">https://ko-fi.com/shincode403</a></li>
-      </ul>
-    </td>
-    <td align="center">
-      <h2>⛔ Important Information!!</h2>
-      <p>
-      All the tools on my GitHub are provided free of charge and are not for sale.
-      </p>
-      <p>
-      The tools on my GitHub are also open source, allowing you to create or learn from them. However, but I hope you don't just change the author name, because that's not cool at all!
-      </p>
-      <p>
-        I hope the tools I share here prove useful in your learning journey. Thank you :'D
-      </p>
-    </td>
-  </tr>
+<tr>
+  <td align="center">
+    <h1>🌐 Hi! Pro Welcome To My Github Page</h1>
+    <p>Welcome to my GitHub page! I'm glad you're here.
+    Here, you'll find various projects I've worked on, ranging from open-source code to tutorials and learning notes.
+    I hope the content I share will be beneficial to you.</p>
+  </td>
+  <td align="center">
+    <h2>💲 </i> Buy Coffee :</h2>
+    <button onclick="toggleVisibility()">Show Payment Methods</button>
+    <ul id="paymentMethods" style="display: none;">
+      <li>Bitcoin <i style="font-size:24px">$</i>: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</li>
+      <li>Saweria <i style="font-size:24px">$</i>: <a href="https://saweria.co/Shin403" target="_blank">https://saweria.co/Shin403</a></li>
+      <li>Trakteer <i style="font-size:24px">$</i>: <a href="https://trakteer.id/shin403" target="_blank">https://trakteer.id/shin403</a></li>
+      <li>Buymeacoffee <i style="font-size:24px">$</i>: <a href="https://www.buymeacoffee.com/shin.code" target="_blank">https://www.buymeacoffee.com/shin.code</a></li>
+      <li>Ko-Fi <i style="font-size:24px">$</i>: <a href="https://ko-fi.com/shincode403" target="_blank">https://ko-fi.com/shincode403</a></li>
+    </ul>
+  </td>
+  <td align="center">
+    <h2>⛔ Important Information!!</h2>
+    <p>All the tools on my GitHub are provided free of charge and are not for sale.</p>
+    <p>The tools on my GitHub are also open source, allowing you to create or learn from them. However, I hope you don't just change the author name, because that's not cool at all!</p>
+    <p>I hope the tools I share here prove useful in your learning journey. Thank you :'D</p>
+  </td>
+</tr>
+
+<script>
+  function toggleVisibility() {
+    var paymentList = document.getElementById('paymentMethods');
+    if (paymentList.style.display === "none") {
+      paymentList.style.display = "block";
+    } else {
+      paymentList.style.display = "none";
+    }
+  }
+</script>
   <tr>
     <td align="center">
       <h2>☣️ Disclaimer For Tools</h2>
@@ -43,7 +49,7 @@ I hope the content I share will be beneficial to you.</p>
       </p>
     </td>
     <td align="center">
-      <h2>📞 Connect With Me</h2>
+      <h2>📫 Connect With Me</h2>
       <p align="center">If you need help with our tools, you can contact us via the contacts provided below.</p>
       <a href="https://t.me/Shin_code" rel="nofollow">
         <img src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
