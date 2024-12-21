@@ -67,8 +67,10 @@
       <p><b>And for users utilizing my tools, I hope you use them wisely!</p></b></p>
     </td>
   </tr>
-<h3 align="center">Thank You for Visiting My Page! </h3>
-<p align="center">
+<td align="center">
+<h3>Thank You for Visiting My Page! </h3>
+<p>
   <strong>Keep exploring, keep learning, and keep growing!</strong>   
 </p>
+</td>
   </tr>
