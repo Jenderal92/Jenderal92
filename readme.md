@@ -4,6 +4,10 @@ Hi there! Thank you for visiting my profile. I'm just an ordinary developer who 
 Although there's still much to learn, I strive to give my best in every step of this journey.
 
 ## ☕ Support Me  
+
+<details>
+  <summary><strong></strong>Click to Show</strong></summary>
+  
 If you find my projects or code helpful, your support would mean a lot to me!  
 
 - 🌟 Don’t forget to **Star** the repositories you like.  
@@ -17,6 +21,7 @@ If you find my projects or code helpful, your support would mean a lot to me!
   - ☕ **BuyMeACoffee:** [https://www.buymeacoffee.com/shin.code](https://www.buymeacoffee.com/shin.code)  
   - ☕ **Ko-Fi:** [https://ko-fi.com/shincode403](https://ko-fi.com/shincode403)  
 
+</details>
 </details>
 
 ## 🔗 Connect with Me  
