@@ -1,7 +1,6 @@
 # Hello, I'm **Jenderal92** 👋  
 
 ## 💡 About Me  
-
 Hi there! Thank you for visiting my profile. I'm just an ordinary developer who loves learning, experimenting with new ideas, and sharing the knowledge I have.  
 Although there's still much to learn, I strive to give my best in every step of this journey.
 
@@ -37,7 +36,6 @@ The code and projects I share here are the result of personal learning and exper
 > - If using it in production, please review it thoroughly first.
 
 ### 📝 Additional Disclaimer  
-
 - The tools shared on this GitHub page are intended for responsible use and their designated purposes only.  
 - **Jenderal92** (the author) accepts no liability for any misuse or improper use of these tools.  
 - Users are solely responsible for their actions when using these tools, and **Jenderal92** cannot be held accountable for any harm caused to individuals, property, or equipment during their use.  
@@ -45,7 +43,6 @@ The code and projects I share here are the result of personal learning and exper
 - Users should ensure compliance with all applicable laws and regulations when using these tools.
 
 ## ⚠️ Admin Information  
-
 - If any tools or files from my repositories are found on your website, please accept my apologies. I am simply sharing code for educational purposes and have not engaged in any hacking activities. My intent is to share knowledge, and any issues caused by the tools on your website are beyond my responsibility.  
 - I encourage all users of my tools to act responsibly and take the necessary precautions to secure their websites. Thank you for your understanding.
 
