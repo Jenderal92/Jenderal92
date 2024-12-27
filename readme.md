@@ -18,6 +18,7 @@ If you find my projects or code helpful, your support would mean a lot to me!
   - ☕ **Ko-Fi:** [https://ko-fi.com/shincode403](https://ko-fi.com/shincode403)  
 
 </details>
+
 ## 🔗 Connect with Me  
 <details>
   <summary>Click to Show</summary>
@@ -29,6 +30,7 @@ If you find my projects or code helpful, your support would mean a lot to me!
 - 🎥 **YouTube**: [Smile Of Beauty](https://m.youtube.com/channel/UCKf6FCKYuFUeG5D_SiAsQiQ/)  
 
 </details>
+
 ## 📝 Disclaimer  
 The code and projects I share here are the result of personal learning and experimentation. I don’t claim that everything is perfect or free from errors, so your feedback and suggestions are always welcome.
 
@@ -47,14 +49,14 @@ The code and projects I share here are the result of personal learning and exper
 - Users should ensure compliance with all applicable laws and regulations when using these tools.
 
 </details>
-## ⚠️ Admin Information  
 
+##⚠️ Admin Information  
 <details>
   <summary>Click to Show</summary>
   
 - If any tools or files from my repositories are found on your website, please accept my apologies. I am simply sharing code for educational purposes and have not engaged in any hacking activities. My intent is to share knowledge, and any issues caused by the tools on your website are beyond my responsibility.  
 - I encourage all users of my tools to act responsibly and take the necessary precautions to secure their websites. Thank you for your understanding.
+- **For users of my tools, I hope you use them wisely!**
 
 </details>
-- **For users of my tools, I hope you use them wisely!**
 
