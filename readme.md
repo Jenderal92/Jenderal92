@@ -13,11 +13,13 @@ If you find my projects or code helpful, your support would mean a lot to me!
 
 <details>
   <summary>Click to Show Payment Methods</summary>
+  
   - ☕ **Bitcoin:** 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC  
   - ☕ **Saweria:** [https://saweria.co/Shin403](https://saweria.co/Shin403)  
   - ☕ **Trakteer:** [https://trakteer.id/shin403](https://trakteer.id/shin403)  
   - ☕ **BuyMeACoffee:** [https://www.buymeacoffee.com/shin.code](https://www.buymeacoffee.com/shin.code)  
   - ☕ **Ko-Fi:** [https://ko-fi.com/shincode403](https://ko-fi.com/shincode403)  
+
 </details>
 
 ## 🔗 Connect with Me  
