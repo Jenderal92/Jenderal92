@@ -9,7 +9,7 @@ If you find my projects or code helpful, your support would mean a lot to me!
 - 🌟 Don’t forget to **Star** the repositories you like.  
 - ☕ You can also support me through the following:
 <details>
-  <summary>Click to Show</summary>
+  <summary><strong></strong>Click to Show</strong></summary>
   
   - ☕ **Bitcoin:** 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC  
   - ☕ **Saweria:** [https://saweria.co/Shin403](https://saweria.co/Shin403)  
@@ -21,7 +21,7 @@ If you find my projects or code helpful, your support would mean a lot to me!
 
 ## 🔗 Connect with Me  
 <details>
-  <summary>Click to Show</summary>
+  <summary><strong></strong>Click to Show</strong></summary>
   
 - 📩 Email: [shindaytoday@gmail.com](mailto:shindaytoday@gmail.com)  
 - 🌐 Website: [www.blog-gan.org](https://www.blog-gan.org)  
@@ -40,7 +40,7 @@ The code and projects I share here are the result of personal learning and exper
 
 ### 📝 Additional Disclaimer
 <details>
-  <summary>Click to Show</summary>
+  <summary><strong></strong>Click to Show</strong></summary>
   
 - The tools shared on this GitHub page are intended for responsible use and their designated purposes only.  
 - **Jenderal92** (the author) accepts no liability for any misuse or improper use of these tools.  
@@ -52,7 +52,7 @@ The code and projects I share here are the result of personal learning and exper
 
 ## ⚠️ Admin Information  
 <details>
-  <summary>Click to Show</summary>
+  <summary><strong></strong>Click to Show</strong></summary>
   
 - If any tools or files from my repositories are found on your website, please accept my apologies. I am simply sharing code for educational purposes and have not engaged in any hacking activities. My intent is to share knowledge, and any issues caused by the tools on your website are beyond my responsibility.  
 - I encourage all users of my tools to act responsibly and take the necessary precautions to secure their websites. Thank you for your understanding.
