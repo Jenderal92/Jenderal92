@@ -9,7 +9,8 @@ Although there's still much to learn, I strive to give my best in every step of 
 If you find my projects or code helpful, your support would mean a lot to me!  
 
 - 🌟 Don’t forget to **Star** the repositories you like.  
-- ☕ You can also support me through the following:  
+- ☕ You can also support me through the following:
+
 <details>
   <summary>Click to Show Payment Methods</summary>
   - ☕ **Bitcoin:** 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC  
