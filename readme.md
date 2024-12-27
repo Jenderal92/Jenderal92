@@ -37,13 +37,17 @@ If you find my projects or code helpful, your support would mean a lot to me!
 </details>
 
 ## 📝 Disclaimer  
+
+<details>
+  <summary><strong></strong>Click to Show</strong></summary>
+  
 The code and projects I share here are the result of personal learning and experimentation. I don’t claim that everything is perfect or free from errors, so your feedback and suggestions are always welcome.
 
 > **Important Note:**  
 > - Use my code responsibly. You are fully responsible for its use.  
 > - If using it in production, please review it thoroughly first.
 
-### 📝 Additional Disclaimer
+### Additional Disclaimer
 <details>
   <summary><strong></strong>Click to Show</strong></summary>
   
@@ -53,6 +57,7 @@ The code and projects I share here are the result of personal learning and exper
 - All tools shared here are for educational purposes only. The author does not endorse illegal or unethical activities.  
 - Users should ensure compliance with all applicable laws and regulations when using these tools.
 
+</details>
 </details>
 
 ## ⚠️ Admin Information  
