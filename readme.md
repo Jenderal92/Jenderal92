@@ -50,7 +50,7 @@ The code and projects I share here are the result of personal learning and exper
 
 </details>
 
-##⚠️ Admin Information  
+## ⚠️ Admin Information  
 <details>
   <summary>Click to Show</summary>
   
