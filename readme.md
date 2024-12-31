@@ -3,6 +3,13 @@
 Hi there! Thank you for visiting my profile. I'm just an ordinary developer who loves learning, experimenting with new ideas, and sharing the knowledge I have.  
 Although there's still much to learn, I strive to give my best in every step of this journey.
 
+## 🛠️ Skills  
+
+<details>
+  <summary><strong></strong>Click to Show</strong></summary>
+  I’m not entirely certain about my skills—perhaps it’s just luck, or maybe I’m simply enjoying the process.
+</details>
+
 ## ☕ Support Me  
 
 <details>
