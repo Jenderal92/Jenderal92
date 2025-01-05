@@ -1,4 +1,8 @@
+
 # Hi Pro, I'm **Jenderal92** 👋  
+
+![Smile-Of-Beauty](https://github.com/user-attachments/assets/618b790f-3877-47a0-bab9-bb5a86b5f70c)
+
   
 Hi there! Thank you for visiting my profile. I'm just an ordinary developer who loves learning, experimenting with new ideas, and sharing the knowledge I have.  
 Although there's still much to learn, I strive to give my best in every step of this journey.
