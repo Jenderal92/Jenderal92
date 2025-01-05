@@ -1,7 +1,8 @@
 
 # Hi Pro, I'm **Jenderal92** 👋  
 
-![Smile-Of-Beauty](https://github.com/user-attachments/assets/618b790f-3877-47a0-bab9-bb5a86b5f70c)
+<img src="https://github.com/user-attachments/assets/618b790f-3877-47a0-bab9-bb5a86b5f70c" alt="Smile-Of-Beauty" width="400">
+
 
   
 Hi there! Thank you for visiting my profile. I'm just an ordinary developer who loves learning, experimenting with new ideas, and sharing the knowledge I have.  
