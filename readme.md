@@ -2,11 +2,8 @@
 # Hi Pro, I'm **Jenderal92** 👋  
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c04bd040-afea-48ea-aebd-8a10e380176e" alt="Smile-Of-Beauty" width="300" style="pointer-events: none;">
+  <img src="https://github.com/user-attachments/assets/c04bd040-afea-48ea-aebd-8a10e380176e" alt="Smile-Of-Beauty" width="400" style="pointer-events: none;">
 </div>
-
-![Smile-Of-Beauty-no-bg-manual](https://github.com/user-attachments/assets/1cae3522-57fc-4b8c-8cde-86c054f26e9a)
-
 
   
 Hi there! Thank you for visiting my profile. I'm just an ordinary developer who loves learning, experimenting with new ideas, and sharing the knowledge I have.  
