@@ -2,7 +2,7 @@
 # Hi Pro, I'm **Jenderal92** 👋  
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/618b790f-3877-47a0-bab9-bb5a86b5f70c" alt="Smile-Of-Beauty" width="300" style="pointer-events: none;">
+  <img src="https://github.com/user-attachments/assets/c04bd040-afea-48ea-aebd-8a10e380176e" alt="Smile-Of-Beauty" width="300" style="pointer-events: none;">
 </div>
 
   
