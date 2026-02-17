@@ -41,7 +41,7 @@ If you find my projects or code helpful, your support would mean a lot to me!
 <details>
   <summary><strong></strong>Click to Show</strong></summary>
   
-- 📩 Email: [shindaytoday@gmail.com](mailto:shindaytoday@gmail.com)  
+- 📩 Email: [jenderal1337@gmail.com](mailto:jenderal1337@gmail.com)  
 - 🌐 Website: [www.blog-gan.org](https://www.blog-gan.org)  
 - 📱 **Telegram**: [@Shin_Code](https://t.me/Shin_Code)  
 - 📘 **Facebook**: [Shin403](https://www.facebook.com/Shin403)  
