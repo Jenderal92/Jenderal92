@@ -5,4 +5,6 @@
 ## 🔗 Connect with Me  
 📩 Email: [jenderal1337@gmail.com](mailto:jenderal1337@gmail.com) |  📱 **Telegram**: [@Shin_Code](https://t.me/Shin_Code)  
 
-[![Contributors of pingcap/tidb](https://next.ossinsight.io/widgets/official/compose-contributors/thumbnail.png?repo_id=41986369&limit=200&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-contributors?repo_id=41986369&limit=200)
+<a href="https://next.ossinsight.io/widgets/official/compose-contributors?repo_id=41986369&limit=200" target="_blank">
+  <img src="https://next.ossinsight.io/widgets/official/compose-contributors/thumbnail.png?repo_id=41986369&limit=200&image_size=auto&color_scheme=dark" width="654" height="auto" alt="Contributors of pingcap/tidb">
+</a>
