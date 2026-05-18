@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com" alt="Smile-Of-Beauty" width="400" style="pointer-events: none;">
+  <img src="https://github.com/user-attachments/assets/1cae3522-57fc-4b8c-8cde-86c054f26e9a" alt="Smile-Of-Beauty" width="400" style="pointer-events: none;">
 
   <h3><i>"Cogo, Cogito, Cognosco"</i></h3>
   <p>Gather data. Analyze deeply. Master the truth.</p>
