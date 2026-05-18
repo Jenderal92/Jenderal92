@@ -15,7 +15,7 @@
 
 ### Buy me a Coffe 
 
-* 🪙 **₿ BTC:**: `14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC`
+<pre class="notranslate"><code>₿ BTC:**: `14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC`</code></pre>
 
 ## ⚠️ Disclaimer
 <details>
