@@ -9,13 +9,13 @@
 
 ## 🔗 Connect with Me  
 
-| 📩 Email | 📱 Telegram | 📢 Sponsored Ads |
+| 📩 Email | 📱 Telegram | 📢 Ads |
 | :--- | :--- | :--- |
 | <a href="mailto:jenderal1337@gmail.com">jenderal1337@gmail.com</a> | <a href="https://t.me/Shin_Code">@Shin_Code</a> | <a href="https://t.me/sellerakiaaws">t.me/sellerakiaaws</a> |
 
 ### Buy me a Coffe 
 
-<pre class="notranslate"><code>₿ BTC: `14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC`</code></pre>
+<pre class="notranslate"><code>₿ BTC: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</code></pre>
 
 ## ⚠️ Disclaimer
 <details>
