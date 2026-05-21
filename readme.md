@@ -1,23 +1,23 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1cae3522-57fc-4b8c-8cde-86c054f26e9a" alt="Smile-Of-Beauty" width="400">
 
-  ### <kbd>Cogo, Cogito, Cognosco</kbd>
+  ### <h3><kbd>Cogo, Cogito, Cognosco</kbd></h3>
 
   <p>Gather data. Analyze deeply. Master the truth.</p>
 </div>
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me  
 
 | 📩 Email | 📱 Telegram | 📢 Ads |
 | :--- | :--- | :--- |
-| [jenderal1337@gmail.com](mailto:jenderal1337@gmail.com) | [@Shin_Code](https://t.me/Shin_Code) | [t.me/sellerakiaaws](https://t.me/sellerakiaaws) |
+| <a href="mailto:jenderal1337@gmail.com">jenderal1337@gmail.com</a> | <a href="https://t.me/Shin_Code">@Shin_Code</a> | <a href="https://t.me/sellerakiaaws">t.me/sellerakiaaws</a> |
 
-### ☕ Buy me a Coffee
+### Buy me a Coffe 
 
-```text
-₿ BTC: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC
+<pre class="notranslate"><code>₿ BTC: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</code></pre>
+
 
 ---
 
