@@ -1,6 +1,4 @@
-     .<a href="https://t.me/Shin_Code" target="_blank" style="background: #24292e; border: 1px solid #444; border-radius: 30px; padding: 0.4rem 0.9rem; text-decoration: none; color: #fff; display: inline-flex; align-items: center; gap: 0.4rem; font-family: sans-serif; font-size: 0.9rem;">
-  <i class="fab fa-telegram"></i> Telegram
-</a>
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1cae3522-57fc-4b8c-8cde-86c054f26e9a" alt="Smile-Of-Beauty" width="400">
