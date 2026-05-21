@@ -8,29 +8,22 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connections
 
 <div align="center">
-  
-  <a href="mailto:jenderal1337@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://t.me/Shin_Code">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://t.me/sellerakiaaws">
-    <img src="https://img.shields.io/badge/Services-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Services" />
-  </a>
 
-</div>
+`[ EMAIL ]` ➔ [jenderal1337@proton.me](mailto:jenderal1337@gmail.com)  
+`[ TELEGRAM ]` ➔ [t.me/Shin_Code](https://t.me/Shin_Code)  
+`[ BUSINESS ]` ➔ [t.me/sellerakiaaws](https://t.me/sellerakiaaws)
 
 ---
 
-<div align="center">
-  <p><i>Buying me a coffee!</i></p>
-  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="BTC" />
-  <br>
-  <code>14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</code>
+### ☕ Buy me a coffee
+
+`BTC` 
+<br>
+`14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC`
+
 </div>
 
 ---
