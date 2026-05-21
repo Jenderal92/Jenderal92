@@ -8,7 +8,7 @@
 
 ---
 
-## 🔗 Connections
+## 🔗 ──── [ Connect With Me ] ───
 
 <p align="center">
   <code>0x01.</code> <a href="mailto:jenderal1337@gmail.com">EMAIL_ADDRESS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 
 ---
 
-### ☕ Buy me a coffee
+### ☕ ──── [ Buy Me a Coffee ] ───
 
 <div align="center">
   <code>BTC: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</code>
