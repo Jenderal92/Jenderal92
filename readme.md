@@ -10,22 +10,23 @@ bagian connect with me jelek biar bagus profil github : <div align="center">
 
 ## 🔗 Connect with Me  
 
-<table align="center" width="100%">
+<table width="100%" style="border-collapse: collapse; text-align: center;">
   <thead>
     <tr>
-      <th width="33%">📩 Email</th>
-      <th width="33%">📱 Telegram</th>
-      <th width="33%">📢 Business</th>
+      <th style="padding: 10px;">📩 Email</th>
+      <th style="padding: 10px;">📱 Telegram</th>
+      <th style="padding: 10px;">📢 Business</th>
     </tr>
   </thead>
   <tbody>
-    <tr align="center">
-      <td><a href="mailto:jenderal1337@gmail.com">jenderal1337@gmail.com</a></td>
-      <td><a href="https://t.me/Shin_Code">@Shin_Code</a></td>
-      <td><a href="https://t.me/sellerakiaaws">t.me/sellerakiaaws</a></td>
+    <tr>
+      <td style="padding: 15px;"><a href="mailto:jenderal1337@gmail.com">jenderal1337@gmail.com</a></td>
+      <td style="padding: 15px;"><a href="https://t.me/Shin_Code">@Shin_Code</a></td>
+      <td style="padding: 15px;"><a href="https://t.me/sellerakiaaws">t.me/sellerakiaaws</a></td>
     </tr>
   </tbody>
 </table>
+
 ### Buy me a Coffe 
 
 <pre class="notranslate"><code>₿ BTC: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</code></pre>
