@@ -20,9 +20,9 @@
 
 ### ☕ Buy me a coffee
 
-`BTC` 
-<br>
-`14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC`
+<div align="center">
+  <code>BTC: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</code>
+</div>
 
 </div>
 
