@@ -1,4 +1,6 @@
-<div align="center">
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Luckiest+Guy&family=VT323&family=Fira+Code&display=swap" rel="stylesheet">
+    
+    <div align="center">
   <img src="https://github.com/user-attachments/assets/1cae3522-57fc-4b8c-8cde-86c054f26e9a" alt="Smile-Of-Beauty" width="400" style="pointer-events: none;">
 
   <span style="color: #0f0; text-transform: uppercase; margin-top: 0.3rem; font-family: 'Luckiest Guy', sans-serif; font-weight: bold; text-shadow: 0.05em 0 0 rgba(255, 0, 0, 0.5), -0.05em -0.025em 0 rgba(0, 255, 255, 0.5); animation: glitch 0.6s infinite alternate; letter-spacing: 1px;">
