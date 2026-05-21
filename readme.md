@@ -3,7 +3,7 @@
 
   ### <h3><i>Cogo, Cogito, Cognosco</i></h3>
 
-  <p>Gather data. Analyze deeply. Master the truth.</p>
+  <p>Collect the data, peep the game, and lock in on the real.</p>
 </div>
 
 ---
