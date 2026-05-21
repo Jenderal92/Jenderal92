@@ -1,5 +1,4 @@
-    <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Luckiest+Guy&family=VT323&family=Fira+Code&display=swap" rel="stylesheet">
-    
+
     <div align="center">
   <img src="https://github.com/user-attachments/assets/1cae3522-57fc-4b8c-8cde-86c054f26e9a" alt="Smile-Of-Beauty" width="400" style="pointer-events: none;">
 
