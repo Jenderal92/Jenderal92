@@ -10,11 +10,11 @@
 
 ## 🔗 Connections
 
-<div align="center">
-
-`[ EMAIL ]` ➔ [jenderal1337@proton.me](mailto:jenderal1337@gmail.com)  
-`[ TELEGRAM ]` ➔ [t.me/Shin_Code](https://t.me/Shin_Code)  
-`[ BUSINESS ]` ➔ [t.me/sellerakiaaws](https://t.me/sellerakiaaws)
+<p align="center">
+  <code>0x01.</code> <a href="mailto:jenderal1337@gmail.com">EMAIL_ADDRESS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <code>0x02.</code> <a href="https://t.me/Shin_Code">TELEGRAM_ID</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <code>0x03.</code> <a href="https://t.me/sellerakiaaws">BUSINESS_PORTAL</a>
+</p>
 
 ---
 
