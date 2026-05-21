@@ -1,4 +1,6 @@
-
+<a href="https://t.me/Shin_Code" style="text-decoration: none; padding: 5px 15px; border: 1px solid #30363d; border-radius: 20px; background-color: #0d1117; color: #c9d1d9; font-weight: bold; display: inline-block;">
+  <img src="https://simpleicons.org/icons/telegram.svg" width="12" style="vertical-align: middle;"> Telegram
+</a>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1cae3522-57fc-4b8c-8cde-86c054f26e9a" alt="Smile-Of-Beauty" width="400">
