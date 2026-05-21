@@ -1,4 +1,4 @@
-<div align="center">
+bagian connect with me jelek biar bagus profil github : <div align="center">
   <img src="https://github.com/user-attachments/assets/1cae3522-57fc-4b8c-8cde-86c054f26e9a" alt="Smile-Of-Beauty" width="400">
 
   ### <h3><i>Cogo, Cogito, Cognosco</i></h3>
@@ -8,23 +8,28 @@
 
 ---
 
-## 🔗 ──── [ Connect With Me ] ───
+## 🔗 Connect with Me  
 
-<p align="center">
-  <code>0x01.</code> <a href="mailto:jenderal1337@gmail.com">EMAIL_ADDRESS</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <code>0x02.</code> <a href="https://t.me/Shin_Code">TELEGRAM_ID</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <code>0x03.</code> <a href="https://t.me/sellerakiaaws">BUSINESS_PORTAL</a>
-</p>
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th width="33%">📩 Email</th>
+      <th width="33%">📱 Telegram</th>
+      <th width="33%">📢 Business</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr align="center">
+      <td><a href="mailto:jenderal1337@gmail.com">jenderal1337@gmail.com</a></td>
+      <td><a href="https://t.me/Shin_Code">@Shin_Code</a></td>
+      <td><a href="https://t.me/sellerakiaaws">t.me/sellerakiaaws</a></td>
+    </tr>
+  </tbody>
+</table>
+### Buy me a Coffe 
 
----
+<pre class="notranslate"><code>₿ BTC: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</code></pre>
 
-### ☕ ──── [ Buy Me a Coffee ] ───
-
-<div align="center">
-  <code>BTC: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</code>
-</div>
-
-</div>
 
 ---
 
@@ -41,5 +46,6 @@
 
   If any tools or files from this repository are found being used on compromised systems or websites, please note that this is **not the responsibility of the repository author**.
 
-  *Use responsibly and ethically.*
+  *Use re
+sponsibly and ethically.*
 </details>
