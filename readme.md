@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1cae3522-57fc-4b8c-8cde-86c054f26e9a" alt="Smile-Of-Beauty" width="400">
 
-  ### <h3><kbd>Cogo, Cogito, Cognosco</kbd></h3>
+  ### <h3><i>Cogo, Cogito, Cognosco</i></h3>
 
   <p>Gather data. Analyze deeply. Master the truth.</p>
 </div>
