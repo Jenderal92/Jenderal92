@@ -8,16 +8,30 @@
 
 ---
 
-## 🔗 Connect with Me  
+## 🔗 Connect with Me
 
-| 📩 Email | 📱 Telegram | 📢 Ads |
-| :--- | :--- | :--- |
-| <a href="mailto:jenderal1337@gmail.com">jenderal1337@gmail.com</a> | <a href="https://t.me/Shin_Code">@Shin_Code</a> | <a href="https://t.me/sellerakiaaws">t.me/sellerakiaaws</a> |
+<div align="center">
+  
+  <a href="mailto:jenderal1337@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/Shin_Code">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://t.me/sellerakiaaws">
+    <img src="https://img.shields.io/badge/Services-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Services" />
+  </a>
 
-### Buy me a Coffe 
+</div>
 
-<pre class="notranslate"><code>₿ BTC: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</code></pre>
+---
 
+<div align="center">
+  <p><i>Buying me a coffee!</i></p>
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="BTC" />
+  <br>
+  <code>14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</code>
+</div>
 
 ---
 
