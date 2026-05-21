@@ -1,4 +1,4 @@
-bagian connect with me jelek biar bagus profil github : <div align="center">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/1cae3522-57fc-4b8c-8cde-86c054f26e9a" alt="Smile-Of-Beauty" width="400">
 
   ### <h3><i>Cogo, Cogito, Cognosco</i></h3>
