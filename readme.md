@@ -13,6 +13,7 @@
 | 📩 Email | 📱 Telegram | 📢 Ads |
 | :--- | :--- | :--- |
 | <a href="mailto:jenderal1337@gmail.com">jenderal1337@gmail.com</a> | <a href="https://t.me/Shin_Code">@Shin_Code</a> | <a href="https://t.me/sellerakiaaws">t.me/sellerakiaaws</a> |
+<a href="https://t.me/Shin_Code" target="_blank" class="contact-icon"><i class="fab fa-telegram"></i> Telegram</a>
 
 ### Buy me a Coffe 
 
