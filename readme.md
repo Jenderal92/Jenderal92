@@ -8,7 +8,7 @@ bagian connect with me jelek biar bagus profil github : <div align="center">
 
 ---
 
-## 🔗 Connect with Me  
+## 🔗 Hit me up!
 
 <table width="100%" style="border-collapse: collapse; text-align: center;">
   <thead>
@@ -27,14 +27,16 @@ bagian connect with me jelek biar bagus profil github : <div align="center">
   </tbody>
 </table>
 
-### Buy me a Coffe 
+### Yo, hit me up with a coffee real quick.
 
 <pre class="notranslate"><code>₿ BTC: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</code></pre>
 
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Yo, check it:
+"Look, this is just for info, aight? Don't be comin' at me if things go sideways. You handle your own business, I'm just here to keep it 100."
+
 <details>
   <summary><b>Click to Expand Disclaimer</b></summary>
   <br>
