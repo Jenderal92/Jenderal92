@@ -15,14 +15,14 @@
     <tr>
       <th style="padding: 10px;">📩 Email</th>
       <th style="padding: 10px;">📱 Telegram</th>
-      <th style="padding: 10px;">📢 Business</th>
+      <th style="padding: 10px;">📢 Ads</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="padding: 15px;"><a href="mailto:jenderal1337@gmail.com">jenderal1337@gmail.com</a></td>
       <td style="padding: 15px;"><a href="https://t.me/Shin_Code">@Shin_Code</a></td>
-      <td style="padding: 15px;"><a href="https://t.me/sellerakiaaws">t.me/sellerakiaaws</a></td>
+      <td style="padding: 15px;"><a href="#">N/A</a></td>
     </tr>
   </tbody>
 </table>
