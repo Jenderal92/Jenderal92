@@ -24,11 +24,9 @@
       <td style="padding: 15px;"><a href="https://t.me/Shin_Code">@Shin_Code</a></td>
       <td style="padding: 15px;"><a href="#">N/A</a></td>
     </tr>
-    <tr>
-      <td style="padding: 15px;">Personal Contact email only</td>
-    </tr>
   </tbody>
 </table>
+<pre class="notranslate">Personal contact email Only </pre>
 
 ### Yo, hit me up with a coffee real quick.
 
