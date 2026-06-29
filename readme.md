@@ -26,7 +26,7 @@
     </tr>
   </tbody>
 </table>
-<pre class="notranslate">Personal contact email Only | Telegram is not used by individuals</pre>
+<pre class="notranslate">Personal contact email Only</pre>
 
 ### Yo, hit me up with a coffee real quick.
 
